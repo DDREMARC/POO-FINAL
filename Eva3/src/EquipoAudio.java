@@ -1,0 +1,2 @@
+public class EquipoAudio {
+}
